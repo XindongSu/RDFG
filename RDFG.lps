@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Release"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="RDFG.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="4"/>
+        <UsageCount Value="24"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="UnitFormRDFG.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormRDFG"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="108"/>
+        <CursorPos X="15" Y="200"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\Lazarus\lcl\dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="212"/>
+        <CursorPos X="3" Y="220"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\Lazarus\fpc\3.0.4\source\rtl\win\wininc\base.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="254"/>
+        <CursorPos X="6" Y="271"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="UnitFormRDFG.pas"/>
+        <Caret Line="6" Column="3"/>
+      </Position1>
+      <Position2>
+        <Filename Value="UnitFormRDFG.pas"/>
+        <Caret Line="238" Column="14" TopLine="220"/>
+      </Position2>
+      <Position3>
+        <Filename Value="UnitFormRDFG.pas"/>
+      </Position3>
+      <Position4>
+        <Filename Value="UnitFormRDFG.pas"/>
+        <Caret Line="234" Column="12" TopLine="217"/>
+      </Position4>
+      <Position5>
+        <Filename Value="UnitFormRDFG.pas"/>
+        <Caret Line="259" Column="34" TopLine="238"/>
+      </Position5>
+      <Position6>
+        <Filename Value="UnitFormRDFG.pas"/>
+        <Caret Line="234" Column="12" TopLine="217"/>
+      </Position6>
+      <Position7>
+        <Filename Value="UnitFormRDFG.pas"/>
+        <Caret Line="6" Column="3" TopLine="55"/>
+      </Position7>
+      <Position8>
+        <Filename Value="UnitFormRDFG.pas"/>
+        <Caret Line="217" Column="36"/>
+      </Position8>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
